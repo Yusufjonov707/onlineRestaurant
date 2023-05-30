@@ -1,44 +1,21 @@
 # Restaurant Food Order Theme
 This is a Restaurant Theme Website Template, designed using html and css. It was developed while teaching "Responsive Web Design Course".
 
-**Access the Course Here** - 
-[Responsive Web Design Course 2020](https://www.youtube.com/watch?v=VaV_Ro8jpPY)
-
-
-## Support Developer
-1. Subscribe & Share my YouTube Channel - https://bit.ly/vijay-thapa-online-courses
-2. Add a Star 🌟  to this 👆 Repository
-
-## Donate
-
-**[PayPal](https://bit.ly/support-vijay-thapa)**
-
-**[Buy me a Coffee  ☕️](https://www.buymeacoffee.com/vijaythapa)**
-
-**Donate by wire transfer:** ✉️ E-Mail at *donate@vijaythapa.com* for wire transfer details. 
+<h3>Features </h3>
+<h4>Table Management:</h4>
+Easily manage and organize your restaurant's tables. Assign tables to customers, track table availability, and ensure smooth seating arrangements.
+<h4>Order Management:</h4>
+Order Management: Take orders efficiently and accurately using the app. Manage order modifications, special requests, and track order progress.
+<h4>Menu Management:</h4>
+Maintain an up-to-date digital menu with detailed descriptions and pricing. Make changes to the menu items, add new items, or remove discontinued ones.
+<h4>Billing and Payment:</h4>
+Generate accurate bills for customers, including itemized breakdowns, taxes, and discounts. Accept various payment methods, including cash, credit cards, and mobile wallets.
 
 
 
 ## Technologies Used
 1. HTML5
 2. CSS3
+3. PHP
 
 
-## Pages on this Complete Free Template
-1. **index.html** - Home Page (Search Food, Some Categories, Featured Foods, Social Media link)
-2. **categories.html** - List all Categories on Single Page
-3. **foods.html** - List all foods on a single page
-4. **order.html** - Page to Order Selected Food
-5. **category_foods.html** - Page to list all the Foods based on Category Selected
-6. **food_search.html** - Page to list all the Foods based on Search keyword
-
-
-## For Sponsor or Project Enquiry
-1. Email - hi@vijaythapa.com
-
-
-## Follow Me on
-1. LinkedIn - [vijaythapa](https://www.linkedin.com/in/vijaythapa/ "Vijay Thapa on LinkedIn")
-2. Instagram - [@vijaythapa.code](https://www.instagram/vijaythapa.code/ "Vijay Thapa on Instagram")
-3. Facebook - [@thevijaythapa](https://www.facebook.com/thevijaythapa/ "Vijay Thapa on Facebook")
-5. Twitter - [@thevijaythapa](https://www.twitter.com/thevijaythapa "Vijay Thapa on Twitter")
